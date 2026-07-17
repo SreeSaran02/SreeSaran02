@@ -8,7 +8,7 @@ Mechanical Engineering graduate (UK Hons) transitioning into cybersecurity with 
 
 #### 🎯 Currently
 
-- 📘 Studying for **CompTIA Security+ (SY0-701)** — exam scheduled August 2026
+- 📘 Studying for **CompTIA Security+ (SY0-701)**  exam scheduled August 2026
 - 🛡️ Working through the **TryHackMe SOC Level 1** learning path
 - 🧪 Running a home SOC lab with **Wazuh SIEM, Sysmon, and Kali Linux**
 - 🎓 Applying for **MSc Cybersecurity** programs
@@ -26,7 +26,7 @@ Mechanical Engineering graduate (UK Hons) transitioning into cybersecurity with 
 
 #### 📁 Featured Projects
 
-- 🏠 [**Home SOC Lab**](https://github.com/SreeSaran02/home-soc-lab) — Wazuh + Sysmon + Kali · 4 investigation reports · MITRE ATT&CK mapped detections
+- 🏠 [**Home SOC Lab**](https://github.com/SreeSaran02/home-soc-lab) | Wazuh + Sysmon + Kali · 4 investigation reports · MITRE ATT&CK mapped detections
 
 ---
 
