@@ -10,14 +10,14 @@ Mechanical Engineering graduate (UK Hons) transitioning into cybersecurity with 
 
 - 📘 Studying for **CompTIA Security+ (SY0-701)**  exam scheduled August 2026
 - 🛡️ Working through the **TryHackMe SOC Level 1** learning path
-- 🧪 Running a home SOC lab with **Wazuh SIEM, Sysmon, and Kali Linux**
+- 🧪 Running home SOC labs with **Wazuh** and **Splunk Enterprise** (Sysmon + Kali attacker) - two SIEMs, same attacks
 - 🎓 Applying for **MSc Cybersecurity** programs
 
 ---
 
 #### 🔧 Skills & Tools
 
-**Security:** Wazuh SIEM · Sysmon · MITRE ATT&CK · Incident Response · Log Analysis · Threat Hunting  
+**Security:** Wazuh SIEM · Splunk Enterprise · SPL · Sysmon · MITRE ATT&CK · Incident Response · Log Analysis · Threat Hunting 
 **Networking:** TCP/IP · DNS · Ports & Protocols · Nmap · Wireshark  
 **Systems:** Windows · Linux (Kali) · PowerShell · Bash · VirtualBox  
 **Other:** Tekla Structures · SolidWorks · Technical Documentation
@@ -26,7 +26,8 @@ Mechanical Engineering graduate (UK Hons) transitioning into cybersecurity with 
 
 #### 📁 Featured Projects
 
-- 🏠 [**Home SOC Lab**](https://github.com/SreeSaran02/home-soc-lab) | Wazuh + Sysmon + Kali · 4 investigation reports · MITRE ATT&CK mapped detections
+- 🏠 [**Home SOC Lab (Wazuh)**](https://github.com/SreeSaran02/home-soc-lab) | Wazuh + Sysmon + Kali · 4 investigation reports · MITRE ATT&CK mapped detections
+- 📊 [**Splunk SOC Lab**](https://github.com/SreeSaran02/Splunk-soc-lab) | Splunk Enterprise + Sysmon + Kali · 3 investigations with multi-source correlation · MITRE ATT&CK mapped detections
 
 ---
 
